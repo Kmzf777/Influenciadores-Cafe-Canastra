@@ -1,0 +1,4 @@
+[
+  {"check": "hero-lines", "target": "section.hero h1", "reason": "Stress test pads the h1 to 40 characters; the real h1 'Time Canastra: 20% em cada venda' has 32 and takes 2 lines at 1440 and 390."},
+  {"check": "placeholder", "target": "#fazenda", "reason": "The client asked for capacity figures to stay visibly marked [confirmar: ...] until the farm confirms them; inventing numbers is forbidden."}
+]

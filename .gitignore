@@ -1,0 +1,13 @@
+node_modules
+.next
+out
+.vercel
+*.tsbuildinfo
+next-env.d.ts
+.env*.local
+shots
+.taste-skill/chrome-*
+prints/tiles
+.taste-skill/gate/
+.taste-skill/*.json
+!.taste-skill/waivers.json
